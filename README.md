@@ -1,6 +1,6 @@
 # RV32I Single-Cycle Core + Bare-Metal Button/LED Firmware
 
-![simulate](https://github.com/<Ofrank-design>/<your-repo>/actions/workflows/ci.yml/badge.svg)
+![simulate](https://github.com/Ofrank-design/bootloader-cpu/actions/workflows/ci.yml/badge.svg)
 
 A synthesizable single-cycle RISC-V (RV32I subset) CPU core written in SystemVerilog, wired into a small memory-mapped SoC and verified by running a hand-written bare-metal assembly program on it. The firmware reads a button through a GPIO register and toggles an LED, once per press.
 
