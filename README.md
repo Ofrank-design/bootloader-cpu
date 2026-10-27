@@ -153,4 +153,4 @@ Not yet done: formal verification, riscv-tests / compliance suite, synthesis, an
 
 ## License
 
-Add a license of your choice (MIT is common for projects like this) before publishing.
+MIT. See [LICENSE](LICENSE).
